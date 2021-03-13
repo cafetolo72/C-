@@ -1,0 +1,10 @@
+C:\Users\joani\OneDrive\Escritorio\GitHub\cafetolo72\CSharp-C-\EjerciciosPrueba4\EjerciciosPrueba4\bin\Debug\EjerciciosPrueba4.exe.config
+C:\Users\joani\OneDrive\Escritorio\GitHub\cafetolo72\CSharp-C-\EjerciciosPrueba4\EjerciciosPrueba4\bin\Debug\EjerciciosPrueba4.exe
+C:\Users\joani\OneDrive\Escritorio\GitHub\cafetolo72\CSharp-C-\EjerciciosPrueba4\EjerciciosPrueba4\bin\Debug\EjerciciosPrueba4.pdb
+C:\Users\joani\OneDrive\Escritorio\GitHub\cafetolo72\CSharp-C-\EjerciciosPrueba4\EjerciciosPrueba4\obj\Debug\EjerciciosPrueba4.csprojAssemblyReference.cache
+C:\Users\joani\OneDrive\Escritorio\GitHub\cafetolo72\CSharp-C-\EjerciciosPrueba4\EjerciciosPrueba4\obj\Debug\EjerciciosPrueba4.Form1.resources
+C:\Users\joani\OneDrive\Escritorio\GitHub\cafetolo72\CSharp-C-\EjerciciosPrueba4\EjerciciosPrueba4\obj\Debug\EjerciciosPrueba4.Properties.Resources.resources
+C:\Users\joani\OneDrive\Escritorio\GitHub\cafetolo72\CSharp-C-\EjerciciosPrueba4\EjerciciosPrueba4\obj\Debug\EjerciciosPrueba4.csproj.GenerateResource.cache
+C:\Users\joani\OneDrive\Escritorio\GitHub\cafetolo72\CSharp-C-\EjerciciosPrueba4\EjerciciosPrueba4\obj\Debug\EjerciciosPrueba4.csproj.CoreCompileInputs.cache
+C:\Users\joani\OneDrive\Escritorio\GitHub\cafetolo72\CSharp-C-\EjerciciosPrueba4\EjerciciosPrueba4\obj\Debug\EjerciciosPrueba4.exe
+C:\Users\joani\OneDrive\Escritorio\GitHub\cafetolo72\CSharp-C-\EjerciciosPrueba4\EjerciciosPrueba4\obj\Debug\EjerciciosPrueba4.pdb
