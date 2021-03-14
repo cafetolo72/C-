@@ -1,0 +1,10 @@
+C:\Users\joani\OneDrive\Escritorio\GitHub\cafetolo72\CSharp-C-\MayorMenorVector\MayorMenorVector\bin\Debug\MayorMenorVector.exe.config
+C:\Users\joani\OneDrive\Escritorio\GitHub\cafetolo72\CSharp-C-\MayorMenorVector\MayorMenorVector\bin\Debug\MayorMenorVector.exe
+C:\Users\joani\OneDrive\Escritorio\GitHub\cafetolo72\CSharp-C-\MayorMenorVector\MayorMenorVector\bin\Debug\MayorMenorVector.pdb
+C:\Users\joani\OneDrive\Escritorio\GitHub\cafetolo72\CSharp-C-\MayorMenorVector\MayorMenorVector\obj\Debug\MayorMenorVector.csprojAssemblyReference.cache
+C:\Users\joani\OneDrive\Escritorio\GitHub\cafetolo72\CSharp-C-\MayorMenorVector\MayorMenorVector\obj\Debug\MayorMenorVector.Form1.resources
+C:\Users\joani\OneDrive\Escritorio\GitHub\cafetolo72\CSharp-C-\MayorMenorVector\MayorMenorVector\obj\Debug\MayorMenorVector.Properties.Resources.resources
+C:\Users\joani\OneDrive\Escritorio\GitHub\cafetolo72\CSharp-C-\MayorMenorVector\MayorMenorVector\obj\Debug\MayorMenorVector.csproj.GenerateResource.cache
+C:\Users\joani\OneDrive\Escritorio\GitHub\cafetolo72\CSharp-C-\MayorMenorVector\MayorMenorVector\obj\Debug\MayorMenorVector.csproj.CoreCompileInputs.cache
+C:\Users\joani\OneDrive\Escritorio\GitHub\cafetolo72\CSharp-C-\MayorMenorVector\MayorMenorVector\obj\Debug\MayorMenorVector.exe
+C:\Users\joani\OneDrive\Escritorio\GitHub\cafetolo72\CSharp-C-\MayorMenorVector\MayorMenorVector\obj\Debug\MayorMenorVector.pdb
