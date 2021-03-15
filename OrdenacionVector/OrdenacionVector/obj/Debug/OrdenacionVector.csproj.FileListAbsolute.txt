@@ -1,0 +1,10 @@
+C:\Users\joani\OneDrive\Escritorio\GitHub\cafetolo72\CSharp-C-\OrdenacionVector\OrdenacionVector\bin\Debug\OrdenacionVector.exe.config
+C:\Users\joani\OneDrive\Escritorio\GitHub\cafetolo72\CSharp-C-\OrdenacionVector\OrdenacionVector\bin\Debug\OrdenacionVector.exe
+C:\Users\joani\OneDrive\Escritorio\GitHub\cafetolo72\CSharp-C-\OrdenacionVector\OrdenacionVector\bin\Debug\OrdenacionVector.pdb
+C:\Users\joani\OneDrive\Escritorio\GitHub\cafetolo72\CSharp-C-\OrdenacionVector\OrdenacionVector\obj\Debug\OrdenacionVector.csprojAssemblyReference.cache
+C:\Users\joani\OneDrive\Escritorio\GitHub\cafetolo72\CSharp-C-\OrdenacionVector\OrdenacionVector\obj\Debug\OrdenacionVector.Form1.resources
+C:\Users\joani\OneDrive\Escritorio\GitHub\cafetolo72\CSharp-C-\OrdenacionVector\OrdenacionVector\obj\Debug\OrdenacionVector.Properties.Resources.resources
+C:\Users\joani\OneDrive\Escritorio\GitHub\cafetolo72\CSharp-C-\OrdenacionVector\OrdenacionVector\obj\Debug\OrdenacionVector.csproj.GenerateResource.cache
+C:\Users\joani\OneDrive\Escritorio\GitHub\cafetolo72\CSharp-C-\OrdenacionVector\OrdenacionVector\obj\Debug\OrdenacionVector.csproj.CoreCompileInputs.cache
+C:\Users\joani\OneDrive\Escritorio\GitHub\cafetolo72\CSharp-C-\OrdenacionVector\OrdenacionVector\obj\Debug\OrdenacionVector.exe
+C:\Users\joani\OneDrive\Escritorio\GitHub\cafetolo72\CSharp-C-\OrdenacionVector\OrdenacionVector\obj\Debug\OrdenacionVector.pdb

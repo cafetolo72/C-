@@ -1,0 +1,5 @@
+C:\Users\joani\OneDrive\Escritorio\GitHub\cafetolo72\CSharp-C-\Factorial\Factorial\obj\Debug\Factorial.csprojAssemblyReference.cache
+C:\Users\joani\OneDrive\Escritorio\GitHub\cafetolo72\CSharp-C-\Factorial\Factorial\obj\Debug\Factorial.Form1.resources
+C:\Users\joani\OneDrive\Escritorio\GitHub\cafetolo72\CSharp-C-\Factorial\Factorial\obj\Debug\Factorial.Properties.Resources.resources
+C:\Users\joani\OneDrive\Escritorio\GitHub\cafetolo72\CSharp-C-\Factorial\Factorial\obj\Debug\Factorial.csproj.GenerateResource.cache
+C:\Users\joani\OneDrive\Escritorio\GitHub\cafetolo72\CSharp-C-\Factorial\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
