@@ -1,0 +1,9 @@
+C:\Users\joani\OneDrive\Escritorio\DAM\Entorno de Desarrollo\Ejercicios 3 Trimestre\Bank_JOB_2021\Bank_JOB_2021\bin\Debug\netcoreapp3.1\Bank_JOB_2021.deps.json
+C:\Users\joani\OneDrive\Escritorio\DAM\Entorno de Desarrollo\Ejercicios 3 Trimestre\Bank_JOB_2021\Bank_JOB_2021\bin\Debug\netcoreapp3.1\Bank_JOB_2021.dll
+C:\Users\joani\OneDrive\Escritorio\DAM\Entorno de Desarrollo\Ejercicios 3 Trimestre\Bank_JOB_2021\Bank_JOB_2021\bin\Debug\netcoreapp3.1\Bank_JOB_2021.pdb
+C:\Users\joani\OneDrive\Escritorio\DAM\Entorno de Desarrollo\Ejercicios 3 Trimestre\Bank_JOB_2021\Bank_JOB_2021\obj\Debug\netcoreapp3.1\Bank_JOB_2021.AssemblyInfoInputs.cache
+C:\Users\joani\OneDrive\Escritorio\DAM\Entorno de Desarrollo\Ejercicios 3 Trimestre\Bank_JOB_2021\Bank_JOB_2021\obj\Debug\netcoreapp3.1\Bank_JOB_2021.AssemblyInfo.cs
+C:\Users\joani\OneDrive\Escritorio\DAM\Entorno de Desarrollo\Ejercicios 3 Trimestre\Bank_JOB_2021\Bank_JOB_2021\obj\Debug\netcoreapp3.1\Bank_JOB_2021.csproj.CoreCompileInputs.cache
+C:\Users\joani\OneDrive\Escritorio\DAM\Entorno de Desarrollo\Ejercicios 3 Trimestre\Bank_JOB_2021\Bank_JOB_2021\obj\Debug\netcoreapp3.1\Bank_JOB_2021.dll
+C:\Users\joani\OneDrive\Escritorio\DAM\Entorno de Desarrollo\Ejercicios 3 Trimestre\Bank_JOB_2021\Bank_JOB_2021\obj\Debug\netcoreapp3.1\Bank_JOB_2021.pdb
+C:\Users\joani\OneDrive\Escritorio\DAM\Entorno de Desarrollo\Ejercicios 3 Trimestre\Bank_JOB_2021\Bank_JOB_2021\obj\Debug\netcoreapp3.1\Bank_JOB_2021.csproj.AssemblyReference.cache
